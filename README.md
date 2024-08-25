@@ -89,6 +89,7 @@ services:
       - 'FiatChamp_FiatUser=user@example.com'
       - 'FiatChamp_FiatPw=123456'
       - 'FiatChamp_FiatPin=9999'
+      - 'FiatChamp_HomeAssistantUrl=http://homeassistant:8123'
       - 'FiatChamp_SupervisorToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI5NGFmMGJhZTFjYTQ0ODk2YWEzYjgzMGI5YmE4NGQxNiIsImlhdCI6MTY3MDA3Mjc
       - 'FiatChamp_StartDelaySeconds=1'
       - 'FiatChamp_Region=Europe'
